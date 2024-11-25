@@ -1,5 +1,3 @@
-# sms_spam_detector
-
 # SMS Spam Detection Application
 
 This repository contains code for a SMS spam detection application that classifies text messages as either spam or not spam using a linear Support Vector Classification (SVC) model. The application is hosted using Gradio, allowing users to input text messages and receive feedback on whether the message is classified as spam or not.
@@ -44,4 +42,4 @@ The application can be tested using the following text messages:
 
 This project was inspired by the need for an efficient SMS spam detection solution and was implemented using machine learning techniques and the Gradio library for hosting the application.
 
-Feel free to explore the code and contribute to further improvements in SMS spam detection. Thank you for visiting the repository!
+Everyone is free to explore the code and contribute to further improvements in SMS spam detection.
